@@ -8,8 +8,9 @@ Engenheiro e pesquisador com 15+ anos na interseção entre **Cloud-Native**, **
 
 ### 🚀 O que estou construindo agora
 
-- 🔬 **[LabAI-Comply](https://github.com/haquiticos/LabAI-Comply)** — Coleção Ansible para provisionar ambientes de IA em laboratórios de pesquisa com conformidade automática à Portaria CNPq 2.664/2026 (auditoria, PII, RAG, LLMs locais/cloud)
-- ⚙️ **[O-Capital-SO](https://github.com/haquiticos/O-Capital-SO)** — Simulação interativa em Rust que modela "O Capital" de Marx como um kernel com bugs de design (educacional, modo apresentação para aulas)
+- 🔬 **[LabAI-Comply](https://github.com/haquiticos/LabAI-Comply)** — Coleção Ansible para provisionar ambientes de IA em laboratórios de pesquisa com conformidade automática à Portaria CNPq 2.664/2026 (auditoria, PII, RAG, LLMs locais/cloud).
+- ⚙️ **[O-Capital-SO](https://github.com/haquiticos/O-Capital-SO)** — Simulação interativa em Rust que modela "O Capital" de Marx como um kernel com bugs de design (educacional, modo apresentação para aulas).
+- ⚙️ **[O-Capital-SO](https://github.com/haquiticos/archr)** — A Rust-based headless engine for creating, validating, and syncing ArchiMate models via CLI and YAML.
 
 ---
 
