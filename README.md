@@ -1,6 +1,6 @@
 # Olá, eu sou o Billy Anderson Pinheiro 👋
 
-**CTO & Fundador @ [Amachains](https://amachains.com)** · **PhD em Engenharia Elétrica (UFPA)** · **Belém/PA 🇧🇷**
+**CoFundador @ [Amachains](https://amachains.com)** · **PhD em Engenharia Elétrica (UFPA)** · **Belém/PA 🇧🇷**
 
 Engenheiro e pesquisador com 15+ anos na interseção entre **Cloud-Native**, **Web3** e **Inteligência Artificial**. Lidero a arquitetura de infraestruturas críticas em AWS/Kubernetes/Terraform, projeto fluxos de trabalho com LLMs e P&D usando Blockchain. Apaixonado por código aberto, gestão horizontal e por construir tecnologia que escala com impacto real.
 
